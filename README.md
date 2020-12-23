@@ -8,4 +8,4 @@ I'm a Computer Science student at the University of Toronto, passionate about da
 - 🔨 Making dance registration simple for thousands of dancers at Cayendo
 - 📚 Rereading The Red Winter: book five of The Tapestry series
 - ⚡ Seeking Summer 2021 Internships at Mission-Driven Companies
-- 📬 The best way to get in touch is by <a href="https://www.instagram.com/latxhman/" target="_blank">dming</a> me, or <a href="mailto:latxhman@gmail.com">email</a> if you need more words
+- 📬 The best way to get in touch is by <a href="https://www.linkedin.com/in/brian-latchman/" target="_blank">dming</a> me, or <a href="mailto:latxhman@gmail.com">email</a> if you need more words
