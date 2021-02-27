@@ -7,5 +7,5 @@ I'm a Computer Science student at the University of Toronto, passionate about da
 - 👨🏽‍💻 Currently a Data Engineer Intern at Loblaw Digital
 - 🔨 Making online registration simple for thousands of dancers at Cayendo
 - 📚 Rereading book five of The Tapestry Series: The Red Winter
-- ⚡ Seeking Summer 2021 Internships at Mission-Driven Companies
+- ⚡ Excited to be joining Microsoft this summer as a Software Engineer Intern
 - 📬 The best way to get in touch is by <a href="https://www.linkedin.com/in/brian-latchman/" target="_blank">direct messaging</a> me, or <a href="mailto:latxhman@gmail.com">email</a> if you need more words
