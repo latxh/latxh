@@ -4,8 +4,8 @@
 
 I'm a Computer Science student at the University of Toronto, passionate about data, design and entrepreneurship. You can see some of my projects below or in more detail on my website -- <a href="https://latchman.ca/" target="_blank">latchman.ca</a>
 
+- ⚡ Excited to be joining Microsoft this summer as a Software Engineer Intern
 - 👨🏽‍💻 Currently a Data Engineer Intern at Loblaw Digital
 - 🔨 Making online registration simple for thousands of dancers at Cayendo
 - 📚 Rereading book five of The Tapestry Series: The Red Winter
-- ⚡ Excited to be joining Microsoft this summer as a Software Engineer Intern
 - 📬 The best way to get in touch is by <a href="https://www.linkedin.com/in/brian-latchman/" target="_blank">direct messaging</a> me, or <a href="mailto:latxhman@gmail.com">email</a> if you need more words
