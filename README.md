@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Brian! 👋🏽
 
-I'm a Computer Science student at the University of Toronto, passionate about data, design and entrepreneurship. You can see some of my projects below or in more detail on my website -- <a href="https://latchman.ca/" target="_blank">latchman.ca</a>
+I'm a Computer Science student at the University of Toronto, passionate about data, design and entrepreneurship. You can see some of my projects below or visit my website to learn more about me -- <a href="https://latchman.ca/" target="_blank">latchman.ca</a>
 
 - ⚡ Excited to be joining Microsoft this summer as a Software Engineer Intern
 - 👨🏽‍💻 Currently a Data Engineer Intern at Loblaw Digital
