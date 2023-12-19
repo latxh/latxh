@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Brian!
 
-I'm a designer creating beautifully engineered experiences that empower people.
+Creating beautifully engineered experiences for people to use, enjoy and explore at Microsoft.
 
 You can view some of my projects below or visit my website to learn more about me (<a href="https://latchman.ca/" target="_blank">latchman.ca</a>).
 
