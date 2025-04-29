@@ -1,6 +1,6 @@
 <img src="https://github.com/latxh/latxh/blob/master/memoji_latxh.gif">
 
-## Hi there, I'm Brian!
+## What's crackalackin, I'm Brian!
 
 Creating beautifully engineered experiences for people to use, enjoy and explore.
 
