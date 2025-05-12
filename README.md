@@ -1,5 +1,5 @@
 ## What's crackalackin, I'm Brian!
 
-Creating beautifully engineered experiences for people to use, enjoy and explore.
+Creating beautifully engineered experiences for people to use, enjoy and explore at Meta.
 
 The best stories are told in person. Let's grab coffee and chat!
