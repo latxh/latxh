@@ -1,5 +1,7 @@
-## What's crackalackin, I'm Brian!
+## Hi, I’m Brian
 
-Creating beautifully engineered experiences for people to use, enjoy and explore.
+Design engineer at Meta based in Seattle, originally from Toronto.
+
+Building thoughtful digital products and capturing life along the way.
 
 The best stories are told in person. Let's grab coffee and chat!
